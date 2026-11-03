@@ -1,0 +1,2 @@
+0 Raton
+1 Teclado
